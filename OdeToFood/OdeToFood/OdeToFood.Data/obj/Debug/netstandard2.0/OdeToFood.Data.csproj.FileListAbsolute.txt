@@ -15,3 +15,11 @@ C:\JDev\ASPMVCFundamentals\OdeToFood\OdeToFood\OdeToFood.Data\obj\Debug\netstand
 C:\JDev\ASPMVCFundamentals\OdeToFood\OdeToFood\OdeToFood.Data\obj\Debug\netstandard2.0\OdeToFood.Data.AssemblyInfo.cs
 C:\JDev\ASPMVCFundamentals\OdeToFood\OdeToFood\OdeToFood.Data\obj\Debug\netstandard2.0\OdeToFood.Data.dll
 C:\JDev\ASPMVCFundamentals\OdeToFood\OdeToFood\OdeToFood.Data\obj\Debug\netstandard2.0\OdeToFood.Data.pdb
+C:\Dev\ASPMVCFundamentals\OdeToFood\OdeToFood\OdeToFood.Data\bin\Debug\netstandard2.0\OdeToFood.Data.deps.json
+C:\Dev\ASPMVCFundamentals\OdeToFood\OdeToFood\OdeToFood.Data\bin\Debug\netstandard2.0\OdeToFood.Data.dll
+C:\Dev\ASPMVCFundamentals\OdeToFood\OdeToFood\OdeToFood.Data\bin\Debug\netstandard2.0\OdeToFood.Data.pdb
+C:\Dev\ASPMVCFundamentals\OdeToFood\OdeToFood\OdeToFood.Data\obj\Debug\netstandard2.0\OdeToFood.Data.AssemblyInfoInputs.cache
+C:\Dev\ASPMVCFundamentals\OdeToFood\OdeToFood\OdeToFood.Data\obj\Debug\netstandard2.0\OdeToFood.Data.AssemblyInfo.cs
+C:\Dev\ASPMVCFundamentals\OdeToFood\OdeToFood\OdeToFood.Data\obj\Debug\netstandard2.0\OdeToFood.Data.csproj.CoreCompileInputs.cache
+C:\Dev\ASPMVCFundamentals\OdeToFood\OdeToFood\OdeToFood.Data\obj\Debug\netstandard2.0\OdeToFood.Data.dll
+C:\Dev\ASPMVCFundamentals\OdeToFood\OdeToFood\OdeToFood.Data\obj\Debug\netstandard2.0\OdeToFood.Data.pdb

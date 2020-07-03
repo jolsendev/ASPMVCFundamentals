@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Dev\\OdeToFood\\OdeToFood\\OdeToFood.Data\\OdeToFood.Data.csproj": {}
+    "C:\\Dev\\ASPMVCFundamentals\\OdeToFood\\OdeToFood\\OdeToFood.Data\\OdeToFood.Data.csproj": {}
   },
   "projects": {
-    "C:\\Dev\\OdeToFood\\OdeToFood\\OdeToFood.Data\\OdeToFood.Data.csproj": {
+    "C:\\Dev\\ASPMVCFundamentals\\OdeToFood\\OdeToFood\\OdeToFood.Data\\OdeToFood.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Dev\\OdeToFood\\OdeToFood\\OdeToFood.Data\\OdeToFood.Data.csproj",
+        "projectUniqueName": "C:\\Dev\\ASPMVCFundamentals\\OdeToFood\\OdeToFood\\OdeToFood.Data\\OdeToFood.Data.csproj",
         "projectName": "OdeToFood.Data",
-        "projectPath": "C:\\Dev\\OdeToFood\\OdeToFood\\OdeToFood.Data\\OdeToFood.Data.csproj",
+        "projectPath": "C:\\Dev\\ASPMVCFundamentals\\OdeToFood\\OdeToFood\\OdeToFood.Data\\OdeToFood.Data.csproj",
         "packagesPath": "C:\\Users\\jamie\\.nuget\\packages\\",
-        "outputPath": "C:\\Dev\\OdeToFood\\OdeToFood\\OdeToFood.Data\\obj\\",
+        "outputPath": "C:\\Dev\\ASPMVCFundamentals\\OdeToFood\\OdeToFood\\OdeToFood.Data\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\jamie\\AppData\\Roaming\\NuGet\\NuGet.Config",

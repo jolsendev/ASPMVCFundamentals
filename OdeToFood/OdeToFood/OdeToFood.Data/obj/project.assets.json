@@ -180,23 +180,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\a5w5nzz\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\jamie\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\JDev\\ASPMVCFundamentals\\OdeToFood\\OdeToFood\\OdeToFood.Data\\OdeToFood.Data.csproj",
+      "projectUniqueName": "C:\\Dev\\ASPMVCFundamentals\\OdeToFood\\OdeToFood\\OdeToFood.Data\\OdeToFood.Data.csproj",
       "projectName": "OdeToFood.Data",
-      "projectPath": "C:\\JDev\\ASPMVCFundamentals\\OdeToFood\\OdeToFood\\OdeToFood.Data\\OdeToFood.Data.csproj",
-      "packagesPath": "C:\\Users\\a5w5nzz\\.nuget\\packages\\",
-      "outputPath": "C:\\JDev\\ASPMVCFundamentals\\OdeToFood\\OdeToFood\\OdeToFood.Data\\obj\\",
+      "projectPath": "C:\\Dev\\ASPMVCFundamentals\\OdeToFood\\OdeToFood\\OdeToFood.Data\\OdeToFood.Data.csproj",
+      "packagesPath": "C:\\Users\\jamie\\.nuget\\packages\\",
+      "outputPath": "C:\\Dev\\ASPMVCFundamentals\\OdeToFood\\OdeToFood\\OdeToFood.Data\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "C:\\Users\\a5w5nzz\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\jamie\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -228,10 +224,16 @@
           }
         },
         "imports": [
-          "net461"
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
         ],
         "assetTargetFallback": true,
-        "warn": true
+        "warn": true,
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
       }
     }
   }
