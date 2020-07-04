@@ -7,10 +7,10 @@ namespace OdeToFood.Data.Services
 {
     public class InMemeoryRestaurantData : IRestaurantData
     {
-        List<Resturant> resturants;
+        List<Resturant> restaurants;
         public InMemeoryRestaurantData()
         {
-            resturants = new List<Resturant>()
+            restaurants = new List<Resturant>()
             {
                 new Resturant  { Id = 1, Name = "Jamie Restaurant", Cuisine = CuisineType.French },
                 new Resturant  { Id = 2, Name = "Data Restaurant",  Cuisine = CuisineType.Indian },
@@ -19,14 +19,31 @@ namespace OdeToFood.Data.Services
             };
         }
 
+        public void Add(Resturant restaurant)
+        {
+            this.restaurants.Add(restaurant);
+            restaurant.Id = restaurants.Max(r => r.Id) + 1;
+        }
+
         public Resturant Get(int id)
         {
-            return resturants.FirstOrDefault(q => q.Id == id);
+            return restaurants.FirstOrDefault(q => q.Id == id);
         }
 
         public IEnumerable<Resturant> GetAll()
         {
-            return resturants.OrderBy(r => r.Name);
+            return restaurants.OrderBy(r => r.Name);
+        }
+
+        public void Update(Resturant resturant)
+        {
+            var existing = Get(resturant.Id);
+            if (existing != null)
+            {
+                existing.Name = resturant.Name;
+                existing.Cuisine = resturant.Cuisine;
+                
+            }
         }
     }
 }
