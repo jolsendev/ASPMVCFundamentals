@@ -21,7 +21,7 @@ namespace OdeToFood.Web.API
         {
             this.db = db;
         }
-        public IEnumerable<Resturant> Get()
+        public IEnumerable<Restaurant> Get()
         {
             var model = db.GetAll();
             return model;

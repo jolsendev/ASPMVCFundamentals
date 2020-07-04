@@ -20,7 +20,6 @@ C:\Dev\ASPMVCFundamentals\OdeToFood\OdeToFood\OdeToFood.Data\bin\Debug\netstanda
 C:\Dev\ASPMVCFundamentals\OdeToFood\OdeToFood\OdeToFood.Data\bin\Debug\netstandard2.0\OdeToFood.Data.pdb
 C:\Dev\ASPMVCFundamentals\OdeToFood\OdeToFood\OdeToFood.Data\obj\Debug\netstandard2.0\OdeToFood.Data.AssemblyInfoInputs.cache
 C:\Dev\ASPMVCFundamentals\OdeToFood\OdeToFood\OdeToFood.Data\obj\Debug\netstandard2.0\OdeToFood.Data.AssemblyInfo.cs
-C:\Dev\ASPMVCFundamentals\OdeToFood\OdeToFood\OdeToFood.Data\obj\Debug\netstandard2.0\OdeToFood.Data.csproj.CoreCompileInputs.cache
 C:\Dev\ASPMVCFundamentals\OdeToFood\OdeToFood\OdeToFood.Data\obj\Debug\netstandard2.0\OdeToFood.Data.dll
 C:\Dev\ASPMVCFundamentals\OdeToFood\OdeToFood\OdeToFood.Data\obj\Debug\netstandard2.0\OdeToFood.Data.pdb
 C:\Dev\ASPMVCFundamentals\OdeToFood\OdeToFood\OdeToFood.Data\bin\Debug\netstandard2.0\System.ComponentModel.DataAnnotations.dll
@@ -31,3 +30,4 @@ C:\Dev\ASPMVCFundamentals\OdeToFood\OdeToFood\OdeToFood.Data\bin\Debug\netstanda
 C:\Dev\ASPMVCFundamentals\OdeToFood\OdeToFood\OdeToFood.Data\bin\Debug\netstandard2.0\System.Security.xml
 C:\Dev\ASPMVCFundamentals\OdeToFood\OdeToFood\OdeToFood.Data\obj\Debug\netstandard2.0\OdeToFood.Data.csprojAssemblyReference.cache
 C:\Dev\ASPMVCFundamentals\OdeToFood\OdeToFood\OdeToFood.Data\obj\Debug\netstandard2.0\OdeToFood.Data.csproj.CopyComplete
+C:\Dev\ASPMVCFundamentals\OdeToFood\OdeToFood\OdeToFood.Data\obj\Debug\netstandard2.0\OdeToFood.Data.csproj.CoreCompileInputs.cache

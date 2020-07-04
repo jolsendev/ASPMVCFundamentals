@@ -7,35 +7,35 @@ namespace OdeToFood.Data.Services
 {
     public class InMemeoryRestaurantData : IRestaurantData
     {
-        List<Resturant> restaurants;
+        List<Restaurant> restaurants;
         public InMemeoryRestaurantData()
         {
-            restaurants = new List<Resturant>()
+            restaurants = new List<Restaurant>()
             {
-                new Resturant  { Id = 1, Name = "Jamie Restaurant", Cuisine = CuisineType.French },
-                new Resturant  { Id = 2, Name = "Data Restaurant",  Cuisine = CuisineType.Indian },
-                new Resturant  { Id = 3, Name = "Dave Restaurant", Cuisine =  CuisineType.Indian },
-                new Resturant  { Id = 4, Name = "Jon Restaurant",  Cuisine = CuisineType.None }
+                new Restaurant  { Id = 1, Name = "Jamie Restaurant", Cuisine = CuisineType.French },
+                new Restaurant  { Id = 2, Name = "Data Restaurant",  Cuisine = CuisineType.Indian },
+                new Restaurant  { Id = 3, Name = "Dave Restaurant", Cuisine =  CuisineType.Indian },
+                new Restaurant  { Id = 4, Name = "Jon Restaurant",  Cuisine = CuisineType.None }
             };
         }
 
-        public void Add(Resturant restaurant)
+        public void Add(Restaurant restaurant)
         {
             this.restaurants.Add(restaurant);
             restaurant.Id = restaurants.Max(r => r.Id) + 1;
         }
 
-        public Resturant Get(int id)
+        public Restaurant Get(int id)
         {
             return restaurants.FirstOrDefault(q => q.Id == id);
         }
 
-        public IEnumerable<Resturant> GetAll()
+        public IEnumerable<Restaurant> GetAll()
         {
             return restaurants.OrderBy(r => r.Name);
         }
 
-        public void Update(Resturant resturant)
+        public void Update(Restaurant resturant)
         {
             var existing = Get(resturant.Id);
             if (existing != null)

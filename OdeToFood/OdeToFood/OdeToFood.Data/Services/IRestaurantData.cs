@@ -6,9 +6,9 @@ namespace OdeToFood.Data.Services
 {
     public interface IRestaurantData
     {
-        IEnumerable<Resturant> GetAll();
-        Resturant Get(int id);
-        void Add(Resturant restaurant);
-        void Update(Resturant resturant);
+        IEnumerable<Restaurant> GetAll();
+        Restaurant Get(int id);
+        void Add(Restaurant restaurant);
+        void Update(Restaurant resturant);
     }
 }

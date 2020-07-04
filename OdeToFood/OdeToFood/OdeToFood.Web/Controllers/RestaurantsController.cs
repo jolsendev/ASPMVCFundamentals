@@ -43,7 +43,7 @@ namespace OdeToFood.Web.Controllers
 
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public ActionResult Create(Resturant restaurant)
+        public ActionResult Create(Restaurant restaurant)
         {
             if (String.IsNullOrEmpty(restaurant.Name)){
                 ModelState.AddModelError(nameof(restaurant.Name), "The name is required");
@@ -69,7 +69,7 @@ namespace OdeToFood.Web.Controllers
 
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public ActionResult Edit(Resturant restaurant)
+        public ActionResult Edit(Restaurant restaurant)
         {
             if (String.IsNullOrEmpty(restaurant.Name))
             {

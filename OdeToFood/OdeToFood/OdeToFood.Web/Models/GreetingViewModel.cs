@@ -7,7 +7,7 @@ namespace OdeToFood.Web.Models
 {
     public class GreetingViewModel
     {
-        public IEnumerable<Resturant> Restaurants { get; set; }
+        public IEnumerable<Restaurant> Restaurants { get; set; }
         public string Message { get; set; }
         public string  Name { get; set; }
 

@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "QiWQTa/iwxa/xTzse4rluAD5Wm2/Y9Cuhb5qJ8Uf5NgPN8tnyN0cLga1OI1E7o5DN6dJ+NATIDF5rzecfDFvLA==",
+  "dgSpecHash": "mfcNoqq7cb2VQKgwXyJQj9WmiYm9eQ+6oLI1SYHDCcMU+SNExHsegsstobN11S5eX0VwamuxFtxntuBWIjt8Zw==",
   "success": true,
   "projectFilePath": "C:\\Dev\\ASPMVCFundamentals\\OdeToFood\\OdeToFood\\OdeToFood.Data\\OdeToFood.Data.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\jamie\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\jamie\\.nuget\\packages\\entityframework\\6.4.4\\entityframework.6.4.4.nupkg.sha512",
     "C:\\Users\\jamie\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
   ],
   "logs": []
